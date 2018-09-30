@@ -2,6 +2,10 @@
 
 namespace IsTodayXmas
 {
+    /// <summary>
+    /// 1. Do not change the signature of method SayXmas.
+    /// 2. Do not create a constructor and property of class Holiday.
+    /// </summary>
     public class Holiday
     {
         public string SayXmas()

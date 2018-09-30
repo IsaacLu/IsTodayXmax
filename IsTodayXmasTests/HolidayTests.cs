@@ -3,6 +3,9 @@ using NUnit.Framework;
 
 namespace IsTodayXmasTests
 {
+    /// <summary>
+    /// Passed two tests.
+    /// </summary>
     [TestFixture]
     public class HolidayTests
     {
